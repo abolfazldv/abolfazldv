@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abolfazldv
 - 👀 I’m interested in android and python
-- 🌱 I’m currently learning python
-- 📫 you can reach me in ig with "abolfazldv" id or email me "abolfazlderavirad@gmail.com"
+- 🌱 I’m currently learning android
+- 📫 you can reach me in ig with id "abolfazldv" or my gmail "abolfazlderavirad@gmail.com"
 
 <!---
 abolfazldv/abolfazldv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
